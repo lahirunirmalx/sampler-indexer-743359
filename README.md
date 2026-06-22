@@ -1,2 +1,3 @@
 # sampler-indexer-743359
-Scratch project
+
+Quick prototype for an idea.
